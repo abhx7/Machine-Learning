@@ -12,3 +12,5 @@ https://docs.google.com/document/d/1nHLOqbDW2rNW988LRTcIncfLkCNrtO5FtjFzCctS1n8/
 https://youtu.be/qNxrPri1V0I?si=1mHSnKxt_btQc_JD
 
 https://www.instagram.com/reel/DDPdXOpo07-/?igsh=MTBoc2xxOHlnOHk3cw%3D%3D
+
+RL with UAV - https://www.linkedin.com/posts/csingh27_become-a-reinforcement-learning-robotics-activity-7276506793445396480-fxk8?utm_source=share&utm_medium=member_android
