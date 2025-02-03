@@ -6,6 +6,10 @@
 
 ' codes should be in matlab and python and maybe c++'
 
+## NLP
+
+NLP Topics - https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-someone-who-is-getting-started-activity-7285303480079003648-TosR?utm_source=share&utm_medium=member_android
+
 ## SciML
 
 ### PINNs
@@ -37,3 +41,5 @@ https://youtu.be/qNxrPri1V0I?si=1mHSnKxt_btQc_JD
 https://www.instagram.com/reel/DDPdXOpo07-/?igsh=MTBoc2xxOHlnOHk3cw%3D%3D
 
 RL with UAV - https://www.linkedin.com/posts/csingh27_become-a-reinforcement-learning-robotics-activity-7276506793445396480-fxk8?utm_source=share&utm_medium=member_android
+
+XG Boost - https://www.linkedin.com/feed/update/urn:li:activity:7281190854537412610/?utm_source=share&utm_medium=member_android
