@@ -45,3 +45,5 @@ RL with UAV - https://www.linkedin.com/posts/csingh27_become-a-reinforcement-lea
 XG Boost - https://www.linkedin.com/feed/update/urn:li:activity:7281190854537412610/?utm_source=share&utm_medium=member_android
 
 AI Courses - https://www.linkedin.com/posts/awaiskhanli_nvidia-is-now-offering-free-ai-courses-no-activity-7287058183863332867-Dn44/?utm_source=share&utm_medium=member_android
+
+RL Course - https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=UXu6V1sFPwmj9yzE
