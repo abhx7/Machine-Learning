@@ -47,3 +47,5 @@ XG Boost - https://www.linkedin.com/feed/update/urn:li:activity:7281190854537412
 AI Courses - https://www.linkedin.com/posts/awaiskhanli_nvidia-is-now-offering-free-ai-courses-no-activity-7287058183863332867-Dn44/?utm_source=share&utm_medium=member_android
 
 RL Course - https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=UXu6V1sFPwmj9yzE
+
+CNN - https://www.instagram.com/reel/DFnTGZDOFNH/?igsh=QkFKMjZkYklWUw%3D%3D
