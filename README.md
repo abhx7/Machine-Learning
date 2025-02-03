@@ -6,6 +6,29 @@
 
 ' codes should be in matlab and python and maybe c++'
 
+## SciML
+
+### PINNs
+
+ 📺 Videos
+- [Introduction to PINNs](https://youtu.be/G_hIppUWcsc?si=LEBG8kNPlu2noiST)
+- [Physics-Informed Neural Networks - Intuitive Guide](https://www.youtube.com/watch?v=-zrY7P2dVC4)
+- [PINNs with Applications](https://www.youtube.com/watch?v=RTR_RklvAUQ)
+- [Deep Learning for Differential Equations](https://www.youtube.com/watch?v=RTR_RklvAUQ)
+- [YouTube Channel on PINNs](https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ)
+
+📄 Articles & Blog Posts
+- [Oxford University Research on PINNs](https://ora.ox.ac.uk/objects/uuid:b790477c-771f-4926-99c6-d2f9d248cb23)
+- [Ben Moseley’s Research on PINNs](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)
+- [Medium: Introductory Tutorial with PyTorch](https://medium.com/@theo.wolf/physics-informed-neural-networks-a-simple-tutorial-with-pytorch-f28a890b874a)
+- [Towards Data Science: Intuitive Guide to PINNs](https://medium.com/towards-data-science/physics-informed-neural-networks-pinns-an-intuitive-guide-fff138069563)
+- [Maziar Raissi’s PINN Resources](https://maziarraissi.github.io/PINNs/)
+- [Arxiv: PINNs Research Paper](https://arxiv.org/abs/2209.02681v2)
+
+📂 GitHub Repositories
+- [Ben Moseley’s GitHub](https://github.com/benmoseley)
+- [PINNs Repository by Theodore Wolf](https://github.com/TheodoreWolf/pinns)
+
 ## References
 https://docs.google.com/document/d/1nHLOqbDW2rNW988LRTcIncfLkCNrtO5FtjFzCctS1n8/mobilebasic?fbclid=PAY2xjawGbYfVleHRuA2FlbQIxMAABpp09fKl2HvcqUg-OhT7a-J-3VRipaNAhtMcszw7CRjh_M6TMWsKRje_pUA_aem_aotrys7sbYnN8sjMaDre0g
 
