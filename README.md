@@ -49,3 +49,9 @@ AI Courses - https://www.linkedin.com/posts/awaiskhanli_nvidia-is-now-offering-f
 RL Course - https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=UXu6V1sFPwmj9yzE
 
 CNN - https://www.instagram.com/reel/DFnTGZDOFNH/?igsh=QkFKMjZkYklWUw%3D%3D
+
+Recommender Systems - https://github.com/jihoo-kim/awesome-RecSys - https://www.linkedin.com/posts/karunt_%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%80%F0%9D%90%AB-activity-7292901030751543298-VBrj/?utm_source=share&utm_medium=member_android
+
+LLMs - https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-like-many-activity-7293054755306622976-gU01?utm_source=share&utm_medium=member_android
+
+Intro to ML - https://www.cis.jhu.edu/~younes/machine_learning.pdf
