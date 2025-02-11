@@ -57,3 +57,5 @@ LLMs - https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-l
 Intro to ML - https://www.cis.jhu.edu/~younes/machine_learning.pdf
 
 Time Complexities of ML Techniques - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_ai-machinelearning-datascience-activity-7294611134106521600-psxJ/?utm_source=share&utm_medium=member_android
+
+Improving GPT evaluator - https://www.linkedin.com/posts/nikhilanand1303_my-gpt-evaluator-got-1000-better-with-this-activity-7289863766458990594-F1HQ/?utm_source=share&utm_medium=member_android
