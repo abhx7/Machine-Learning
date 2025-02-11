@@ -55,3 +55,5 @@ Recommender Systems - https://github.com/jihoo-kim/awesome-RecSys - https://www.
 LLMs - https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-like-many-activity-7293054755306622976-gU01?utm_source=share&utm_medium=member_android
 
 Intro to ML - https://www.cis.jhu.edu/~younes/machine_learning.pdf
+
+Time Complexities of ML Techniques - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_ai-machinelearning-datascience-activity-7294611134106521600-psxJ/?utm_source=share&utm_medium=member_android
