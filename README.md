@@ -6,6 +6,11 @@
 
 ' codes should be in matlab and python and maybe c++'
 
+study resources - 
+https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_i-am-very-happy-that-after-my-machine-learning-activity-7295751075209297921-zmiU/?utm_source=share&utm_medium=member_android
+
+https://www.linkedin.com/posts/bastyajayshenoy_stanford-mit-sab-theek-hai-yaar-lekin-activity-7295645365884661760-lclr/?utm_source=share&utm_medium=member_android
+
 ## NLP
 
 NLP Topics - https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-someone-who-is-getting-started-activity-7285303480079003648-TosR?utm_source=share&utm_medium=member_android
