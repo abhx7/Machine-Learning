@@ -45,6 +45,8 @@ https://youtu.be/qNxrPri1V0I?si=1mHSnKxt_btQc_JD
 
 https://www.instagram.com/reel/DDPdXOpo07-/?igsh=MTBoc2xxOHlnOHk3cw%3D%3D
 
+ML from Basics - https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_i-received-a-phd-in-machine-learning-in-2022-ugcPost-7297223734237573120-M1qP/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
 RL with UAV - https://www.linkedin.com/posts/csingh27_become-a-reinforcement-learning-robotics-activity-7276506793445396480-fxk8?utm_source=share&utm_medium=member_android
 
 XG Boost - https://www.linkedin.com/feed/update/urn:li:activity:7281190854537412610/?utm_source=share&utm_medium=member_android
@@ -64,3 +66,10 @@ Intro to ML - https://www.cis.jhu.edu/~younes/machine_learning.pdf
 Time Complexities of ML Techniques - https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_ai-machinelearning-datascience-activity-7294611134106521600-psxJ/?utm_source=share&utm_medium=member_android
 
 Improving GPT evaluator - https://www.linkedin.com/posts/nikhilanand1303_my-gpt-evaluator-got-1000-better-with-this-activity-7289863766458990594-F1HQ/?utm_source=share&utm_medium=member_android
+
+Graph Neural Networks (GNNs) - https://www.linkedin.com/posts/karunt_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%80-%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BE%F0%9D%98%82%F0%9D%97%B2-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE-activity-7297978250222346240-qT9e/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+PINNs in Turbulent Flow - https://hodgesj.substack.com/p/install-free-code-tutorial-pinns?utm_source=app-post-stats-page&r=5427uc&utm_medium=ios&triedRedirect=true
+
+https://www.linkedin.com/posts/chiragsubramanian_leetcode-the-worlds-leading-online-programming-activity-7297479906358108160-DgMn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
