@@ -73,3 +73,26 @@ PINNs in Turbulent Flow - https://hodgesj.substack.com/p/install-free-code-tutor
 
 https://www.linkedin.com/posts/chiragsubramanian_leetcode-the-worlds-leading-online-programming-activity-7297479906358108160-DgMn/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
+CV Topics/Course - https://www.linkedin.com/posts/sreedath-panat_10-years-ago-i-worked-on-an-interesting-activity-7300809399919333376-nGyE/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+5 very interesting reinforcement learning (RL) project - https://www.linkedin.com/posts/norbert-e-53a498339_datascience-data-datascientist-activity-7298621671404371969-LuHi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+All the Math for AI - https://www.linkedin.com/posts/eordax_ai-math-ml-activity-7299182026748788737-ayUa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+5-phase (8-month) roadmap to transition to AI/ML - https://www.linkedin.com/posts/sreedath-panat_here-is-a-5-phase-8-month-roadmap-to-transition-activity-7299992873565855745-PpkL/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+ultimate cheatsheet for Andrew Ng’s legendary Deep Learning course on Coursera - https://www.linkedin.com/posts/andreashorn1_deep-learning-andrew-ng-activity-7298584455831588865-74Zz/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 - https://www.linkedin.com/posts/karunt_%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E-%F0%9D%90%A8%F0%9D%90%9F-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%80%F0%9D%90%AB-activity-7292901030751543298-VBrj/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Machine Learning and Deep Learning playlists - https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_when-we-released-the-machine-learning-and-activity-7298674782844137472-xA9B/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+𝗪𝗵𝘆 𝗮𝗿𝗲 𝘁𝘄𝗼-𝘁𝗼𝘄𝗲𝗿 𝗻𝗲𝘂𝗿𝗮𝗹 𝗻𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗳𝗼𝗿 𝗿𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀? - https://www.linkedin.com/posts/karunt_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%98%86-%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC-%F0%9D%98%81%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9-activity-7296891080338288642-AKGb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+ML Course - https://www.linkedin.com/posts/ginacostag_python-data-ai-activity-7297956941891293185-tOfm/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+AI Books - https://www.linkedin.com/posts/activity-7297971918672932864-hCEm/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Is physics-informed neutral network (PINN) really good for structural engineering applications?  - https://www.linkedin.com/posts/tai-thai-9a881818b_is-physics-informed-neutral-network-pinn-activity-7297840788376272896-02gI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+Cornell ML course - https://www.youtube.com/watch?v=dosOtgSdbnY&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&index=34
