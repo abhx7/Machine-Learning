@@ -96,3 +96,5 @@ AI Books - https://www.linkedin.com/posts/activity-7297971918672932864-hCEm/?utm
 Is physics-informed neutral network (PINN) really good for structural engineering applications?  - https://www.linkedin.com/posts/tai-thai-9a881818b_is-physics-informed-neutral-network-pinn-activity-7297840788376272896-02gI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Cornell ML course - https://www.youtube.com/watch?v=dosOtgSdbnY&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&index=34
+
+Lin Al - https://www.linkedin.com/posts/eordax_ai-algebra-maths-activity-7302640155759198209-vc4g?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
