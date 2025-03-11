@@ -97,6 +97,8 @@ Is physics-informed neutral network (PINN) really good for structural engineerin
 
 Cornell ML course - https://www.youtube.com/watch?v=dosOtgSdbnY&list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&index=34
 
+AI applies to all, How to learn roadmap - https://www.linkedin.com/posts/andreashorn1_%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%AF%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BA%F0%9D%97%B6%F0%9D%98%80-activity-7302938660381814784-RxJT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
 Lin Al - https://www.linkedin.com/posts/eordax_ai-algebra-maths-activity-7302640155759198209-vc4g?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Regression - https://www.linkedin.com/posts/karunt_%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A-%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%B0-activity-7303051718060056577-SUU-?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
