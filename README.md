@@ -10,6 +10,8 @@ This repository compiles essential resources and template-style codes for Machin
 5. [Usage](#usage)
 6. [Contributions](#contributions)
 
+All resource links [here](Resources.md)
+
 ---
 
 ## 🚀 Machine Learning (ML)
@@ -89,16 +91,4 @@ Contributions are welcome! Feel free to submit issues, suggest improvements, or 
 ---
 
 📌 **Maintainer:** Your Name | Contact: [your.email@example.com]
-
-
-'insert brief summaries of basic ml algos like lin regression, logistic, k means'
-
-'insert codes with basics of what learnt from courses, i.e template type codes to add in projects for faster work completion'
-
-' codes should be in matlab and python and maybe c++'
-
-study resources - 
-https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_i-am-very-happy-that-after-my-machine-learning-activity-7295751075209297921-zmiU/?utm_source=share&utm_medium=member_android
-
-https://www.linkedin.com/posts/bastyajayshenoy_stanford-mit-sab-theek-hai-yaar-lekin-activity-7295645365884661760-lclr/?utm_source=share&utm_medium=member_android
 
