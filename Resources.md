@@ -73,9 +73,11 @@
 - [Why Two-Tower Neural Networks Work for Recommendations](https://www.linkedin.com/posts/karunt_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%98%86-%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC-%F0%9D%98%81%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9-activity-7296891080338288642-AKGb)  
 - [𝗪𝗵𝘆 𝗮𝗿𝗲 𝘁𝘄𝗼-𝘁𝗼𝘄𝗲𝗿 𝗻𝗲𝘂𝗿𝗮𝗹 𝗻𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗳𝗼𝗿 𝗿𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀?](https://www.linkedin.com/posts/karunt_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%98%86-%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC-%F0%9D%98%81%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9-activity-7296891080338288642-AKGb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
+---
 ## AI Agents
 - [Courses on AI Agents](https://www.linkedin.com/posts/andreashorn1_%F0%9D%97%9C-%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%B2-%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%AF%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-activity-7306608398098165760-NZOZ?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI Agents Cheatsheet](https://www.linkedin.com/posts/areganti_my-agentic-ai-cheat-sheet-now-includes-activity-7305777134927556608-ECFG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQhttps://www.linkedin.com/posts/areganti_my-agentic-ai-cheat-sheet-now-includes-activity-7305777134927556608-ECFG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [What are most so-called AI agents](https://www.linkedin.com/posts/paoloperrone_most-so-called-ai-agents-are-just-dressed-up-activity-7305242278619451393-DeEt?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ---
 
