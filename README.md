@@ -1,4 +1,4 @@
-# Resources for AI/ML
+# AI/ML Repo
 
 This repository compiles essential resources and template-style codes for Machine Learning (ML), Natural Language Processing (NLP), and Scientific Machine Learning (SciML), including Physics-Informed Neural Networks (PINNs). The goal is to provide quick-access templates in MATLAB, Python, and C++ for faster project work.
 
