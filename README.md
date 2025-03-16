@@ -108,3 +108,6 @@ Courses on AI Agents - https://www.linkedin.com/posts/andreashorn1_%F0%9D%97%9C-
 AI Agents Cheatsheet - https://www.linkedin.com/posts/areganti_my-agentic-ai-cheat-sheet-now-includes-activity-7305777134927556608-ECFG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQhttps://www.linkedin.com/posts/areganti_my-agentic-ai-cheat-sheet-now-includes-activity-7305777134927556608-ECFG/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
 
 Hierarchical Compositionality and why it is at the heart of Deep Learning - https://www.linkedin.com/posts/chiragsubramanian_hierarchical-compositionality-and-why-it-activity-7305959810565345280-1MmZ/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ
+
+
+FLaw of AI - https://youtu.be/_IOh0S_L3C4?si=LDpDGXKNaU6rw0Gq
