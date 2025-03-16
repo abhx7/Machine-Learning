@@ -1,6 +1,13 @@
 # **Machine Learning & Deep Learning Resources**  
 
 ## **General ML & DL Courses & Roadmaps**
+
+study resources - 
+https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_i-am-very-happy-that-after-my-machine-learning-activity-7295751075209297921-zmiU/?utm_source=share&utm_medium=member_android
+
+https://www.linkedin.com/posts/bastyajayshenoy_stanford-mit-sab-theek-hai-yaar-lekin-activity-7295645365884661760-lclr/?utm_source=share&utm_medium=member_android
+
+
 - [Intro to ML (JHU)](https://www.cis.jhu.edu/~younes/machine_learning.pdf)  
 - [Machine Learning and Deep Learning playlists](https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_when-we-released-the-machine-learning-and-activity-7298674782844137472-xA9B)  
 - [Cornell ML Course (YouTube)](https://www.youtube.com/watch?v=dosOtgSdbnY&list=PLl8OlHZ...)  
@@ -54,6 +61,22 @@
 - [ML Time Complexities](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_ai-machinelearning-datascience-activity-7294611134106521600-psxJ)  
 
 
+## 📌 Machine Learning (ML)
+
+### Courses & Tutorials
+- [CS229: Machine Learning by Andrew Ng](https://cs229.stanford.edu/)
+- [Fast.ai Deep Learning Course](https://course.fast.ai/)
+- [MIT 6.036 Introduction to ML](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
+
+### Libraries & Frameworks
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+
+### Research Papers & Blogs
+- [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
+- [Distill.pub - ML Research](https://distill.pub/)
 
 ## NLP
 
@@ -81,6 +104,8 @@ NLP Topics - https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-som
 📂 GitHub Repositories
 - [Ben Moseley’s GitHub](https://github.com/benmoseley)
 - [PINNs Repository by Theodore Wolf](https://github.com/TheodoreWolf/pinns)
+
+
 
 ## References
 https://docs.google.com/document/d/1nHLOqbDW2rNW988LRTcIncfLkCNrtO5FtjFzCctS1n8/mobilebasic?fbclid=PAY2xjawGbYfVleHRuA2FlbQIxMAABpp09fKl2HvcqUg-OhT7a-J-3VRipaNAhtMcszw7CRjh_M6TMWsKRje_pUA_aem_aotrys7sbYnN8sjMaDre0g
