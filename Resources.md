@@ -79,7 +79,7 @@
 
 ---
 
-# **Scientific Machine Learning (SciML) **  
+# **Scientific Machine Learning (SciML)**  
 
 ## **Physics-Informed Neural Networks (PINNs)**
 
@@ -125,7 +125,7 @@
  
 ---
 
-# Computer Vision (CV)
+# **Computer Vision (CV)**
 
 - [CV Topics/Course](https://www.linkedin.com/posts/sreedath-panat_10-years-ago-i-worked-on-an-interesting-activity-7300809399919333376-nGyE/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
