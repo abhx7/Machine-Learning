@@ -1,4 +1,156 @@
-# Machine-Learning
+# Resources for AI/ML
+
+This repository compiles essential resources and template-style codes for Machine Learning (ML), Natural Language Processing (NLP), and Scientific Machine Learning (SciML), including Physics-Informed Neural Networks (PINNs). The goal is to provide quick-access templates in MATLAB, Python, and C++ for faster project work.
+
+## 📌 Table of Contents
+1. [Machine Learning (ML)](#machine-learning-ml)
+2. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+3. [Scientific Machine Learning (SciML) & PINNs](#scientific-machine-learning-sciml--pinns)
+4. [Installation & Setup](#installation--setup)
+5. [Usage](#usage)
+6. [Contributions](#contributions)
+
+---
+
+## 🚀 Machine Learning (ML)
+This section contains foundational ML algorithms and models with template codes in:
+- **MATLAB**
+- **Python (NumPy, Scikit-learn, TensorFlow/PyTorch)**
+- **C++ (ML libraries like dlib, Eigen, OpenCV, and custom implementations)**
+
+### 📂 Available ML Algorithms:
+- **Supervised Learning**
+  - Linear & Logistic Regression
+  - Decision Trees & Random Forests
+  - Support Vector Machines (SVM)
+  - Neural Networks (Basic MLPs)
+- **Unsupervised Learning**
+  - K-Means Clustering
+  - Principal Component Analysis (PCA)
+- **Reinforcement Learning (RL)**
+  - Q-Learning
+  - Policy Gradient Methods
+
+**➡ [Go to ML Code](ml/)**
+
+---
+
+## 📝 Natural Language Processing (NLP)
+This section covers essential NLP tasks and models, including:
+- **Preprocessing** (Tokenization, Lemmatization, Stop-word Removal)
+- **Text Classification** (Naïve Bayes, LSTMs, Transformers)
+- **Sequence-to-Sequence Models** (RNNs, Attention Mechanisms, BERT, GPT-based models)
+- **Sentiment Analysis & Named Entity Recognition (NER)**
+
+**➡ [Go to NLP Code](nlp/)**
+
+---
+
+## 🔬 Scientific Machine Learning (SciML) & PINNs
+SciML focuses on physics-based learning, particularly using Physics-Informed Neural Networks (PINNs). 
+This section includes:
+- PINN Implementations for solving differential equations (ODEs/PDEs)
+- Hybrid ML + CFD simulations
+- Optimization techniques for engineering applications
+
+**➡ [Go to SciML Code](sciml/)**
+
+---
+
+## ⚙ Installation & Setup
+To use these template codes, ensure you have the following installed:
+
+### Python
+```sh
+pip install numpy pandas scikit-learn tensorflow torch transformers sympy matplotlib
+```
+
+### MATLAB
+Ensure that MATLAB toolboxes for Deep Learning, Statistics, and Machine Learning are installed.
+
+### C++
+Install necessary dependencies like OpenCV, dlib, or Eigen.
+
+---
+
+## 🛠 Usage
+- Clone this repository:
+```sh
+git clone https://github.com/your-repo/ml-nlp-sciml.git
+```
+- Navigate into the respective folders (`ml/`, `nlp/`, `sciml/`)
+- Run the scripts in your preferred environment (Python, MATLAB, or C++)
+
+
+---
+## Resources
+
+### **General ML & DL Courses & Roadmaps**
+- [Intro to ML (JHU)](https://www.cis.jhu.edu/~younes/machine_learning.pdf)  
+- [Machine Learning and Deep Learning playlists](https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_when-we-released-the-machine-learning-and-activity-7298674782844137472-xA9B)  
+- [Cornell ML Course (YouTube)](https://www.youtube.com/watch?v=dosOtgSdbnY&list=PLl8OlHZ...)  
+- [Andrew Ng’s Deep Learning Course Cheatsheet](https://www.linkedin.com/posts/andreashorn1_deep-learning-andrew-ng-activity-7298584455831588865-74Zz)  
+- [5-phase (8-month) AI/ML Roadmap](https://www.linkedin.com/posts/sreedath-panat_here-is-a-5-phase-8-month-roadmap-to-transition-activity-7299992873565855745-PpkL)  
+- [NVIDIA Free AI Courses](https://www.linkedin.com/posts/awaiskhanli_nvidia-is-now-offering-free-ai-courses-no-activity-7287058183863332867-Dn44)  
+
+### **Reinforcement Learning (RL)**
+- [RL Course (YouTube)](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)  
+- [RL with UAV](https://www.linkedin.com/posts/csingh27_become-a-reinforcement-learning-robotics-activity-7276506793445396480-fxk8)  
+- [5 Interesting RL Projects](https://www.linkedin.com/posts/norbert-e-53a498339_datascience-data-datascientist-activity-7298621671404371969-LuHi)  
+
+### **Specific ML Techniques**
+- [XGBoost](https://www.linkedin.com/feed/update/urn:li:activity:7281190854537412610)  
+- [Graph Neural Networks (GNNs)](https://www.linkedin.com/posts/karunt_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%80-%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BE%F0%9D%98%82%F0%9D%97%B2-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE-activity-7297978250222346240-qT9e)  
+- [CNN (Instagram)](https://www.instagram.com/reel/DFnTGZDOFNH/?igsh=QkFKMjZkYklWUw%3D%3D)  
+
+### **Natural Language Processing (NLP)**
+- [NLP Topics (LinkedIn)](https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-someone-who-is-getting-started-activity-7285303480079003648-TosR)  
+- [LLMs (LinkedIn)](https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-like-many-activity-7293054755306622976-gU01)  
+
+### **Recommender Systems**
+- [Recommender Systems GitHub](https://github.com/jihoo-kim/awesome-RecSys)  
+- [Why Two-Tower Neural Networks Work for Recommendations](https://www.linkedin.com/posts/karunt_%F0%9D%97%AA%F0%9D%97%B5%F0%9D%98%86-%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%81%F0%9D%98%84%F0%9D%97%BC-%F0%9D%98%81%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9-activity-7296891080338288642-AKGb)  
+
+---
+
+### **Scientific Machine Learning (SciML) & PINNs**  
+
+###**Physics-Informed Neural Networks (PINNs)**
+
+#### **Videos**
+- [Introduction to PINNs](https://youtu.be/G_hIppUWcsc)  
+- [Intuitive Guide to PINNs](https://www.youtube.com/watch?v=-zrY7P2dVC4)  
+- [PINNs with Applications](https://www.youtube.com/watch?v=RTR_RklvAUQ)  
+
+#### **Articles & Research**
+- [Oxford University Research](https://ora.ox.ac.uk/objects/uuid:b790477c-771f-4926-99c6-d2f9d248cb23)  
+- [Ben Moseley’s Research](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)  
+- [Medium: PyTorch Tutorial](https://medium.com/@theo.wolf/physics-informed-neural-networks-a-simple-tutorial-with-pytorch-f28a890b874a)  
+- [Maziar Raissi’s PINN Resources](https://maziarraissi.github.io/PINNs/)  
+
+#### **GitHub Repositories**
+- [Ben Moseley’s GitHub](https://github.com/benmoseley)  
+- [Theodore Wolf’s PINNs Repository](https://github.com/TheodoreWolf/pinns)  
+
+---
+
+## **Other AI & ML Resources**
+- [AI Books](https://www.linkedin.com/posts/activity-7297971918672932864-hCEm)  
+- [All the Math for AI](https://www.linkedin.com/posts/eordax_ai-math-ml-activity-7299182026748788737-ayUa)  
+- [ML Time Complexities](https://www.linkedin.com/posts/justin-hodges-phd-3432a58b_ai-machinelearning-datascience-activity-7294611134106521600-psxJ)  
+
+
+
+
+---
+
+## 🤝 Contributions
+Contributions are welcome! Feel free to submit issues, suggest improvements, or add new template codes.
+
+---
+
+📌 **Maintainer:** Your Name | Contact: [your.email@example.com]
+
 
 'insert brief summaries of basic ml algos like lin regression, logistic, k means'
 
