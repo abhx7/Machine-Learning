@@ -117,7 +117,7 @@
 ## 📄 Articles & Research Papers & Blogs
 - [NLP Topics (LinkedIn)](https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-someone-who-is-getting-started-activity-7285303480079003648-TosR)
 - [LLMs (LinkedIn)](https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-like-many-activity-7293054755306622976-gU01)
-
+- [LCMs not LLMs is the next big thing](https://www.linkedin.com/posts/leadgenmanthan_2025-is-the-year-of-lcms-and-not-llms-activity-7304462530880368641-MKZC?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ## 📺 Videos
 
