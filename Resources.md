@@ -37,7 +37,7 @@
 
 ### Maths for ML
 - [Linear Algebra](https://www.linkedin.com/posts/eordax_ai-algebra-maths-activity-7302640155759198209-vc4g?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [All Math for ML Videos/Courses](https://www.linkedin.com/posts/eordax_ai-math-ml-activity-7306784503480393728-j5ra/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ### Research Papers & Blogs
 - [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
