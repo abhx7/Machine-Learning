@@ -1,3 +1,7 @@
+# AI and ML
+
+[11-phase roadmap to master the 5 horsemen of AI: ML -> DL -> CV -> NLP -> LLM](https://www.linkedin.com/posts/sreedath-panat_here-is-an-11-phase-roadmap-to-master-the-activity-7309869097456910336-NVo7/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+
 # **Machine Learning & Deep Learning**  
 
 ## 📌 Machine Learning (ML)
