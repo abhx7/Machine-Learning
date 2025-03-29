@@ -1,6 +1,7 @@
 # AI and ML
 
-[11-phase roadmap to master the 5 horsemen of AI: ML -> DL -> CV -> NLP -> LLM](https://www.linkedin.com/posts/sreedath-panat_here-is-an-11-phase-roadmap-to-master-the-activity-7309869097456910336-NVo7/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [11-phase roadmap to master the 5 horsemen of AI: ML -> DL -> CV -> NLP -> LLM](https://www.linkedin.com/posts/sreedath-panat_here-is-an-11-phase-roadmap-to-master-the-activity-7309869097456910336-NVo7/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [AI education](https://www.linkedin.com/posts/activity-7311338069326983169-rAYb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 # **Machine Learning & Deep Learning**  
 
@@ -95,6 +96,7 @@
 - [PINNs with Applications](https://www.youtube.com/watch?v=RTR_RklvAUQ)
 - [Deep Learning for Differential Equations](https://www.youtube.com/watch?v=RTR_RklvAUQ)
 - [YouTube Channel on PINNs](https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ)
+- [Physics-Informed Machine Learning Models with Graph Neural Networks](https://www.linkedin.com/posts/jousefmurad_gnns-engineering-cae-activity-7307477711436861442-IpUB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ### 📄 Articles & Research
 - [Oxford University Research](https://ora.ox.ac.uk/objects/uuid:b790477c-771f-4926-99c6-d2f9d248cb23)  
