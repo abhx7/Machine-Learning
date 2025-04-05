@@ -1,6 +1,7 @@
 # AI and ML
 
 - [11-phase roadmap to master the 5 horsemen of AI: ML -> DL -> CV -> NLP -> LLM](https://www.linkedin.com/posts/sreedath-panat_here-is-an-11-phase-roadmap-to-master-the-activity-7309869097456910336-NVo7/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- ["The 6 pillars of all ML models"](https://www.linkedin.com/posts/sreedath-panat_the-6-pillars-of-all-ml-models-in-2017-activity-7313402465536593922-NrBa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI education](https://www.linkedin.com/posts/activity-7311338069326983169-rAYb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 # **Machine Learning & Deep Learning**  
@@ -63,6 +64,7 @@
 ### Research Papers & Blogs
 - [RL with UAV](https://www.linkedin.com/posts/csingh27_become-a-reinforcement-learning-robotics-activity-7276506793445396480-fxk8)  
 - [5 Interesting RL Projects](https://www.linkedin.com/posts/norbert-e-53a498339_datascience-data-datascientist-activity-7298621671404371969-LuHi)  
+- [RNNs and LSTM](https://www.linkedin.com/posts/raj-abhijit-dandekar-67a33118a_rnn-lstm-notes-ugcPost-7311991838146473984-cwFO?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ### 📺 Videos
 
