@@ -3,7 +3,8 @@
 - [11-phase roadmap to master the 5 horsemen of AI: ML -> DL -> CV -> NLP -> LLM](https://www.linkedin.com/posts/sreedath-panat_here-is-an-11-phase-roadmap-to-master-the-activity-7309869097456910336-NVo7/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - ["The 6 pillars of all ML models"](https://www.linkedin.com/posts/sreedath-panat_the-6-pillars-of-all-ml-models-in-2017-activity-7313402465536593922-NrBa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI education](https://www.linkedin.com/posts/activity-7311338069326983169-rAYb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Machine Learning from scratch? Start here!](https://www.linkedin.com/posts/eordax_ml-ai-learning-activity-7313972638811353088-drTF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+  
 # **Machine Learning & Deep Learning**  
 
 ## 📌 Machine Learning (ML)
@@ -40,20 +41,19 @@
 - [CNN (Instagram)](https://www.instagram.com/reel/DFnTGZDOFNH/?igsh=QkFKMjZkYklWUw%3D%3D)
 - [Regression](https://www.linkedin.com/posts/karunt_%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A-%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9E%F0%9D%90%B0-activity-7303051718060056577-SUU-?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [ML Algos](https://www.instagram.com/reel/DDPdXOpo07-/?igsh=MTBoc2xxOHlnOHk3cw%3D%3D)
+- [Hierarchical Compositionality and why it is at the heart of Deep Learning](https://www.linkedin.com/posts/chiragsubramanian_hierarchical-compositionality-and-why-it-activity-7305959810565345280-1MmZ/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ### Maths for ML
 - [Linear Algebra](https://www.linkedin.com/posts/eordax_ai-algebra-maths-activity-7302640155759198209-vc4g?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [All Math for ML Videos/Courses](https://www.linkedin.com/posts/eordax_ai-math-ml-activity-7306784503480393728-j5ra/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
-### Research Papers & Blogs
+### Research Papers & Blogs & Books
 - [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
 - [Distill.pub - ML Research](https://distill.pub/)
+- [Books for Data Scientists](https://www.linkedin.com/posts/norbert-e-53a498339_datascience-books-machinelearning-activity-7315712608404185089-B_YF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
----
-## Deep Learning
-
-- [Hierarchical Compositionality and why it is at the heart of Deep Learning](https://www.linkedin.com/posts/chiragsubramanian_hierarchical-compositionality-and-why-it-activity-7305959810565345280-1MmZ/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+  ### 📂 GitHub Repositories
+- [Neural Networks from Scratch](https://github.com/dennybritz/nn-from-scratch)
 
 ---
 ## **Reinforcement Learning (RL)**
@@ -126,7 +126,8 @@
 - [NLP Topics (LinkedIn)](https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-someone-who-is-getting-started-activity-7285303480079003648-TosR)
 - [LLMs (LinkedIn)](https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-like-many-activity-7293054755306622976-gU01)
 - [LCMs not LLMs is the next big thing](https://www.linkedin.com/posts/leadgenmanthan_2025-is-the-year-of-lcms-and-not-llms-activity-7304462530880368641-MKZC?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [LLM Cheatsheet](https://www.linkedin.com/posts/sumanth077_stanford-university-released-the-best-cheatsheets-activity-7314538207658840064-ZGna/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- 
 ## 📺 Videos
 
 
@@ -139,6 +140,8 @@
 
 - [CV Topics/Course](https://www.linkedin.com/posts/sreedath-panat_10-years-ago-i-worked-on-an-interesting-activity-7300809399919333376-nGyE/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
+## 📂 GitHub Repositories
+- [Computer Vision Stanford Course](https://cs231n.github.io/neural-networks-case-study/)
 
 
 ----
