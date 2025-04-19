@@ -110,6 +110,7 @@
 - [Arxiv: PINNs Research Paper](https://arxiv.org/abs/2209.02681v2)
 - [Is physics-informed neutral network (PINN) really good for structural engineering applications?](https://www.linkedin.com/posts/tai-thai-9a881818b_is-physics-informed-neutral-network-pinn-activity-7297840788376272896-02gI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [PINNs in Turbulent Flow](https://hodgesj.substack.com/p/install-free-code-tutorial-pinns?utm_source=app-post-stats-page&r=5427uc&utm_medium=ios&triedRedirect=true)
+- [Can neural networks really replace traditional solvers for Maxwell's equations?](https://www.linkedin.com/posts/frankelsteven_pinns-maxwellsequations-deeplearning-activity-7318538548981186560-LaDi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ### 📂 GitHub Repositories
 - [Ben Moseley’s GitHub](https://github.com/benmoseley)  
