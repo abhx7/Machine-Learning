@@ -89,4 +89,4 @@ git clone https://github.com/your-repo/ml-nlp-sciml.git
 
 - [How do AI models work?](https://www.linkedin.com/posts/andreashorn1_%F0%9D%97%A0%F0%9D%97%BC%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%BC%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%9A%F0%9D%97%A3-activity-7313229685243453444-pnyy/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Traning AI models](https://www.linkedin.com/posts/peter-soetens_what-people-around-me-miss-all-the-time-is-ugcPost-7313570313550651392-C4BK/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Google's AI Agents Environment](https://www.linkedin.com/feed/update/urn:li:activity:7317814027370299393/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) 
