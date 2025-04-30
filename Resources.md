@@ -99,7 +99,7 @@
 - [Deep Learning for Differential Equations](https://www.youtube.com/watch?v=RTR_RklvAUQ)
 - [YouTube Channel on PINNs](https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ)
 - [Physics-Informed Machine Learning Models with Graph Neural Networks](https://www.linkedin.com/posts/jousefmurad_gnns-engineering-cae-activity-7307477711436861442-IpUB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- A nine-lecture series on [Physics-Informed Machine Learning (PIML)](https://www.linkedin.com/posts/navid-zobeiry_physicsinformedmachinelearning-machinelearning-activity-7320124120258465793-zA-k/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) delivered by Professor Navid Zobeiry
 ### 📄 Articles & Research
 - [Oxford University Research](https://ora.ox.ac.uk/objects/uuid:b790477c-771f-4926-99c6-d2f9d248cb23)  
 - [Ben Moseley’s Research](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)  
