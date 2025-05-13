@@ -46,7 +46,8 @@
 ### Maths for ML
 - [Linear Algebra](https://www.linkedin.com/posts/eordax_ai-algebra-maths-activity-7302640155759198209-vc4g?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [All Math for ML Videos/Courses](https://www.linkedin.com/posts/eordax_ai-math-ml-activity-7306784503480393728-j5ra/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [some-ml-related-math-i-now-understand-better](https://www.lesswrong.com/posts/Tu8DYNCg63F4HYbXE/some-ml-related-math-i-now-understand-better)
+  
 ### Research Papers & Blogs & Books
 - [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
 - [Distill.pub - ML Research](https://distill.pub/)
@@ -111,7 +112,8 @@
 - [Is physics-informed neutral network (PINN) really good for structural engineering applications?](https://www.linkedin.com/posts/tai-thai-9a881818b_is-physics-informed-neutral-network-pinn-activity-7297840788376272896-02gI/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [PINNs in Turbulent Flow](https://hodgesj.substack.com/p/install-free-code-tutorial-pinns?utm_source=app-post-stats-page&r=5427uc&utm_medium=ios&triedRedirect=true)
 - [Can neural networks really replace traditional solvers for Maxwell's equations?](https://www.linkedin.com/posts/frankelsteven_pinns-maxwellsequations-deeplearning-activity-7318538548981186560-LaDi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-
+- [Robust & Fast Modeling of Nonlinear Physical Systems](https://www.linkedin.com/posts/youngsoo-choi-0b190b9_physics-informed-active-activity-7327196382874742784-1Dx0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+ 
 ### 📂 GitHub Repositories
 - [Ben Moseley’s GitHub](https://github.com/benmoseley)  
 - [Theodore Wolf’s PINNs Repository](https://github.com/TheodoreWolf/pinns)
