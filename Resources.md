@@ -28,6 +28,7 @@
 - [CS229: Machine Learning by Andrew Ng](https://cs229.stanford.edu/)
 - [Fast.ai Deep Learning Course](https://course.fast.ai/)
 - [MIT 6.036 Introduction to ML](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
+- [9 Free Courses From 3 Ivy League Schools](https://www.linkedin.com/posts/charlielass_9-free-courses-from-3-ivy-league-schools-activity-7333945234474590209-Qe51/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 
 ### Libraries & Frameworks
 - [Scikit-Learn](https://scikit-learn.org/stable/)
@@ -52,6 +53,7 @@
 - [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
 - [Distill.pub - ML Research](https://distill.pub/)
 - [Books for Data Scientists](https://www.linkedin.com/posts/norbert-e-53a498339_datascience-books-machinelearning-activity-7315712608404185089-B_YF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Continuous Neural Networks](https://drive.google.com/file/d/1ZfWVMXujHrTwy44fuVZy7Kxdd7-VB6mG/view)
 
   ### 📂 GitHub Repositories
 - [Neural Networks from Scratch](https://github.com/dennybritz/nn-from-scratch)
