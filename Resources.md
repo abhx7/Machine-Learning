@@ -132,7 +132,8 @@
 - [LLMs (LinkedIn)](https://www.linkedin.com/posts/jpreagan_here-is-what-im-reading-in-2025-like-many-activity-7293054755306622976-gU01)
 - [LCMs not LLMs is the next big thing](https://www.linkedin.com/posts/leadgenmanthan_2025-is-the-year-of-lcms-and-not-llms-activity-7304462530880368641-MKZC?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [LLM Cheatsheet](https://www.linkedin.com/posts/sumanth077_stanford-university-released-the-best-cheatsheets-activity-7314538207658840064-ZGna/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- 
+- [𝗵𝗲 𝗦𝘁𝗮𝗻𝗳𝗼𝗿𝗱 𝗛𝗼𝗹𝗶𝘀𝘁𝗶𝗰 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀](https://www.linkedin.com/posts/maryammiradi_helm-llm-evaluation-stanford-university-activity-7337157180304875520-sc0F/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+ 
 ## 📺 Videos
 
 
