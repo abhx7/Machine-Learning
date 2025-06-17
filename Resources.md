@@ -48,7 +48,8 @@
 - [Linear Algebra](https://www.linkedin.com/posts/eordax_ai-algebra-maths-activity-7302640155759198209-vc4g?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [All Math for ML Videos/Courses](https://www.linkedin.com/posts/eordax_ai-math-ml-activity-7306784503480393728-j5ra/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [some-ml-related-math-i-now-understand-better](https://www.lesswrong.com/posts/Tu8DYNCg63F4HYbXE/some-ml-related-math-i-now-understand-better)
-  
+- [Mathematics for Data Science & GenAI](https://www.linkedin.com/posts/juhilkikani_mathematics-for-data-science-and-genai-activity-7338574054074781698-y7lq/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+   
 ### Research Papers & Blogs & Books
 - [ArXiv ML Papers](https://arxiv.org/list/cs.LG/recent)
 - [Distill.pub - ML Research](https://distill.pub/)
@@ -122,10 +123,10 @@
 
 ---
 
-# **Natural Language Processing (NLP)**
+# **Large Language Models(LLM) and Natural Language Processing (NLP)**
 
 ## Courses & Tutorials
-
+ 
 
 ## 📄 Articles & Research Papers & Blogs
 - [NLP Topics (LinkedIn)](https://www.linkedin.com/posts/saurabh-kumar-82417a137_if-youre-someone-who-is-getting-started-activity-7285303480079003648-TosR)
@@ -133,7 +134,8 @@
 - [LCMs not LLMs is the next big thing](https://www.linkedin.com/posts/leadgenmanthan_2025-is-the-year-of-lcms-and-not-llms-activity-7304462530880368641-MKZC?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [LLM Cheatsheet](https://www.linkedin.com/posts/sumanth077_stanford-university-released-the-best-cheatsheets-activity-7314538207658840064-ZGna/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [𝗵𝗲 𝗦𝘁𝗮𝗻𝗳𝗼𝗿𝗱 𝗛𝗼𝗹𝗶𝘀𝘁𝗶𝗰 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗠𝗼𝗱𝗲𝗹𝘀](https://www.linkedin.com/posts/maryammiradi_helm-llm-evaluation-stanford-university-activity-7337157180304875520-sc0F/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
- 
+- [Apple’s viral “Illusion of Thinking” paper vs Claude's opinon](https://www.linkedin.com/posts/aakashak2k_apple-says-llms-dont-reason-claude-says-activity-7340250503441702912-xjg3/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+    
 ## 📺 Videos
 
 
