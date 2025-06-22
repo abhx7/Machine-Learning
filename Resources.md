@@ -55,6 +55,7 @@
 - [Distill.pub - ML Research](https://distill.pub/)
 - [Books for Data Scientists](https://www.linkedin.com/posts/norbert-e-53a498339_datascience-books-machinelearning-activity-7315712608404185089-B_YF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Continuous Neural Networks](https://drive.google.com/file/d/1ZfWVMXujHrTwy44fuVZy7Kxdd7-VB6mG/view)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
   ### 📂 GitHub Repositories
 - [Neural Networks from Scratch](https://github.com/dennybritz/nn-from-scratch)
