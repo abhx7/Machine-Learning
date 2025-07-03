@@ -105,6 +105,7 @@
 - [YouTube Channel on PINNs](https://www.youtube.com/channel/UC2ZZB80udkRvWQ4N3a8DOKQ)
 - [Physics-Informed Machine Learning Models with Graph Neural Networks](https://www.linkedin.com/posts/jousefmurad_gnns-engineering-cae-activity-7307477711436861442-IpUB/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - A nine-lecture series on [Physics-Informed Machine Learning (PIML)](https://www.linkedin.com/posts/navid-zobeiry_physicsinformedmachinelearning-machinelearning-activity-7320124120258465793-zA-k/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ) delivered by Professor Navid Zobeiry
+  
 ### 📄 Articles & Research
 - [Oxford University Research](https://ora.ox.ac.uk/objects/uuid:b790477c-771f-4926-99c6-d2f9d248cb23)  
 - [Ben Moseley’s Research](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/)  
@@ -117,10 +118,12 @@
 - [PINNs in Turbulent Flow](https://hodgesj.substack.com/p/install-free-code-tutorial-pinns?utm_source=app-post-stats-page&r=5427uc&utm_medium=ios&triedRedirect=true)
 - [Can neural networks really replace traditional solvers for Maxwell's equations?](https://www.linkedin.com/posts/frankelsteven_pinns-maxwellsequations-deeplearning-activity-7318538548981186560-LaDi/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Robust & Fast Modeling of Nonlinear Physical Systems](https://www.linkedin.com/posts/youngsoo-choi-0b190b9_physics-informed-active-activity-7327196382874742784-1Dx0/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [Code Example: Discovering Equations from Raw Data with ML](https://hodgesj.substack.com/p/code-example-discovering-equations) 
  
 ### 📂 GitHub Repositories
 - [Ben Moseley’s GitHub](https://github.com/benmoseley)  
 - [Theodore Wolf’s PINNs Repository](https://github.com/TheodoreWolf/pinns)
+- [Jousef Murad - Scientific and Physics Informed Machine Learning in MATLAB](https://github.com/matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples) - From Neural ODEs to Fourier Neural Operators and Graph Neural Networks for heat transfer, this repo shows how to bridge the gap between physics and data.
 
 ---
 
