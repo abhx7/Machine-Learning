@@ -29,6 +29,14 @@
 - [Fast.ai Deep Learning Course](https://course.fast.ai/)
 - [MIT 6.036 Introduction to ML](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
 - [9 Free Courses From 3 Ivy League Schools](https://www.linkedin.com/posts/charlielass_9-free-courses-from-3-ivy-league-schools-activity-7333945234474590209-Qe51/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- https://www.cs.cmu.edu/~15281/
+- https://inst.eecs.berkeley.edu/~cs188/fa24/
+- https://ocw.mit.edu/courses/6-s191-introduction-to-deep-learning-january-iap-2020/
+- https://ocw.mit.edu/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/
+- https://ocw.mit.edu/courses/6-867-machine-learning-fall-2006/
+- https://ocw.mit.edu/courses/6-034-artificial-intelligence-spring-2005/
+- https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python
+
 
 ### Libraries & Frameworks
 - [Scikit-Learn](https://scikit-learn.org/stable/)
