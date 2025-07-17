@@ -4,7 +4,7 @@
 - ["The 6 pillars of all ML models"](https://www.linkedin.com/posts/sreedath-panat_the-6-pillars-of-all-ml-models-in-2017-activity-7313402465536593922-NrBa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI education](https://www.linkedin.com/posts/activity-7311338069326983169-rAYb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Machine Learning from scratch? Start here!](https://www.linkedin.com/posts/eordax_ml-ai-learning-activity-7313972638811353088-drTF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-- [How to spend your 20s in AI era] (https://www.youtube.com/watch?v=ShYKkPPhOoc)
+- [How to spend your 20s in AI era](https://www.youtube.com/watch?v=ShYKkPPhOoc)
    
 # **Machine Learning & Deep Learning**  
 
