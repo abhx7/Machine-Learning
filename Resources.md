@@ -4,7 +4,8 @@
 - ["The 6 pillars of all ML models"](https://www.linkedin.com/posts/sreedath-panat_the-6-pillars-of-all-ml-models-in-2017-activity-7313402465536593922-NrBa/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [AI education](https://www.linkedin.com/posts/activity-7311338069326983169-rAYb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Machine Learning from scratch? Start here!](https://www.linkedin.com/posts/eordax_ml-ai-learning-activity-7313972638811353088-drTF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
-  
+- [How to spend your 20s in AI era] (https://www.youtube.com/watch?v=ShYKkPPhOoc)
+   
 # **Machine Learning & Deep Learning**  
 
 ## 📌 Machine Learning (ML)
@@ -23,6 +24,7 @@
 - [5-phase (8-month) AI/ML Roadmap](https://www.linkedin.com/posts/sreedath-panat_here-is-a-5-phase-8-month-roadmap-to-transition-activity-7299992873565855745-PpkL)  
 - [NVIDIA Free AI Courses](https://www.linkedin.com/posts/awaiskhanli_nvidia-is-now-offering-free-ai-courses-no-activity-7287058183863332867-Dn44)
 - [ML Course](https://www.linkedin.com/posts/ginacostag_python-data-ai-activity-7297956941891293185-tOfm/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
+- [For beginners](https://www.instagram.com/reel/DMGW3dhRFOP/?igsh=a2p3aDljbTVrYjN3)
 
 ### Courses & Tutorials
 - [CS229: Machine Learning by Andrew Ng](https://cs229.stanford.edu/)
