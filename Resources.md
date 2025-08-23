@@ -5,6 +5,7 @@
 - [AI education](https://www.linkedin.com/posts/activity-7311338069326983169-rAYb/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [Machine Learning from scratch? Start here!](https://www.linkedin.com/posts/eordax_ml-ai-learning-activity-7313972638811353088-drTF/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
 - [How to spend your 20s in AI era](https://www.youtube.com/watch?v=ShYKkPPhOoc)
+- [AI Engineering Mix](https://www.linkedin.com/posts/sairam-sundaresan_mit-stanford-deepmind-berkeley-umich-activity-7360267426686529536-SUJT/?utm_source=share&utm_medium=member_android&rcm=ACoAAD-ruCgBJnujmeLzmj1X4DpLLTuxktERedQ)
    
 # **Machine Learning & Deep Learning**  
 
@@ -88,7 +89,8 @@
 
   
 ### 📂 GitHub Repositories
-
+- [Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
+- 
 ---
 ## **Recommender Systems**
 - [Recommender Systems GitHub](https://github.com/jihoo-kim/awesome-RecSys)  
