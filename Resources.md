@@ -28,6 +28,7 @@
 - [For beginners](https://www.instagram.com/reel/DMGW3dhRFOP/?igsh=a2p3aDljbTVrYjN3)
 
 ### Courses & Tutorials
+- [MIT 6.S191 - Introduction to Deep Learning](https://introtodeeplearning.com/)
 - [CS229: Machine Learning by Andrew Ng](https://cs229.stanford.edu/)
 - [Fast.ai Deep Learning Course](https://course.fast.ai/)
 - [MIT 6.036 Introduction to ML](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/)
